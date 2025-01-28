@@ -28,7 +28,7 @@ Este repositorio contiene un proyecto interactivo desarrollado en **Processing**
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/TuUsuario/JuegoInteractivoAdivinanza.git
- ```
+   ```
 2. Abre el archivo app_v_3.pde en el IDE de Processing.
 3. Asegúrate de que las carpetas imagenes y sonidos estén en el mismo directorio que el archivo principal.
 4. Verifica que las bibliotecas requeridas estén instaladas: En el IDE de Processing, ve a Sketch > Import Library > Add Library, busca Minim y ControlP5, e instálalas si es necesario.
