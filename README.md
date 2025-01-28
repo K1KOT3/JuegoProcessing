@@ -27,7 +27,7 @@ Este repositorio contiene un proyecto interactivo desarrollado en **Processing**
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TuUsuario/JuegoInteractivoAdivinanza.git
+   git clone https://github.com/K1KOT3/JuegoProcessing.git
    ```
 2. Abre el archivo app_v_3.pde en el IDE de Processing.
 3. Asegúrate de que las carpetas imagenes y sonidos estén en el mismo directorio que el archivo principal.
